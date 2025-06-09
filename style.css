@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0e0c0c;
+    color: #333;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+
+#Red {
+    background-color: red;
+}
+
+#Yellow {
+    background-color: yellow;
+}
+
+#Purple {
+    background-color: purple;
+}
+
+#Orange {
+    background-color: orange;
+}
